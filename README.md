@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @seemedidemees
+👋 Hi, I’m @seemedidemees
 👀 I’m interested in all things quantum!
-🌱 I’m currently learning Google's Cirq framework
-💞️ I’m looking to collaborate on natural language processing with a focus on communication optimization. Also would love to play a game of Quantum Chess.
+🌱 I’m currently working with Google's Cirq framework
+💞️ I’m looking to collaborate on natural language processing with a focus on communication optimization and earn a career in quantum communications and manufacturing
 📫 You can reach me at clevonwarner96@gmail.com or at my Instagram: @orthonathanganol
 
 
