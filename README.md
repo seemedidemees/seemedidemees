@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on natural language processing with a focus on communication optimization in Space and earning a career in quantum communications and quantum chemical manufacturing.
 📫 You can reach me at clevonwarner96@gmail.com. I am currently searching for work.
 
-My background is in Chemistry and I've worked in food, drug and device testing for the last two years. In my spare time I've researched quantum computing, information theory and radiation and I believe that it is possible to generate strategic elemnts in our planetary environments. Given the proper positioning of off Earth assets, particularly our solar sails, the energy they collect may be reorganized into elements or molecules and those molecules transported to other locations.
+My background is in Chemistry and I've worked in testing and analytics for two years. In my spare time I've researched quantum computing, information theory and radiation and I believe that it is possible to generate strategic elemnts in our planetary environments. Given the proper positioning of off Earth assets, particularly our solar sails, the energy they collect may be reorganized into elements or molecules and those molecules transported to other locations.
 
 Transition metals, inert gases, radioactive elements and subatomic particles are most important to study in interstellar nuclear fissions via solar power.
 
